@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptobox/static/css/main.fed90660.css",
+    "main.js": "/cryptobox/static/js/main.18d2ce64.js",
+    "index.html": "/cryptobox/index.html",
+    "main.fed90660.css.map": "/cryptobox/static/css/main.fed90660.css.map",
+    "main.18d2ce64.js.map": "/cryptobox/static/js/main.18d2ce64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed90660.css",
+    "static/js/main.18d2ce64.js"
+  ]
+}
