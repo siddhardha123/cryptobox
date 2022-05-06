@@ -17,10 +17,10 @@ const Coin = () => {
         })
     },[])
   return (
-    <div>
-       
+    <div className="items-center justify-center">
+      <h1 className="text-6xl items-center justify-center">gand marao</h1>
     </div>
-  )
+  );
 }
 
 export default Coin
