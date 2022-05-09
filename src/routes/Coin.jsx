@@ -18,7 +18,7 @@ const Coin = () => {
     },[])
   return (
     <div className="items-center justify-center">
-      <h1 className="text-6xl items-center justify-center">site under constructionn</h1>
+      <h1 className="text-6xl items-center justify-center">site under construction</h1>
     </div>
   );
 }
