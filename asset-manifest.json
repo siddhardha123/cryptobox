@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cryptobox/static/css/main.df38790c.css",
-    "main.js": "/cryptobox/static/js/main.d1038e0d.js",
+    "main.js": "/cryptobox/static/js/main.857ef3de.js",
     "index.html": "/cryptobox/index.html",
     "main.df38790c.css.map": "/cryptobox/static/css/main.df38790c.css.map",
-    "main.d1038e0d.js.map": "/cryptobox/static/js/main.d1038e0d.js.map"
+    "main.857ef3de.js.map": "/cryptobox/static/js/main.857ef3de.js.map"
   },
   "entrypoints": [
     "static/css/main.df38790c.css",
-    "static/js/main.d1038e0d.js"
+    "static/js/main.857ef3de.js"
   ]
 }
