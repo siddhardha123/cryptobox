@@ -2,11 +2,12 @@ import React from 'react';
 import CoinItem from './CoinItem';
 import Coin from '../routes/Coin'
 import {Link} from 'react-router-dom';
+import './Coins.css'
 const Coins = (props) => {
   return (
-    <div className="max-w-[1000px] m-auto pt-4">
+    <div className="container">
       <div>
-        <div className="flex bg-[#26272b] items-center justify-between shadow-lg font-bold  rounded-md p-4 shadow-[#000000] m-2">
+        <div className="heading flex bg-[#26272b] items-center justify-between shadow-lg font-bold  rounded-md p-4 shadow-[rgb(0,0,0)] m-2">
           <p >#</p>
           <p>Coin</p>
           <p>Price</p>
